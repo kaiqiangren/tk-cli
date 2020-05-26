@@ -25,13 +25,13 @@ download(repository, destination, options, callback)
 ```json
 {
     "bin": {
-        "tk-cli": "bin/index.js"
+        "tk": "bin/index.js"
     }
 }
 ```
-2. 本地安装tk-cli脚手架工具
+2. 本地安装tk脚手架工具
 ```npm
 sudo npm i -g
 ```
-> 安装好之后，尝试执行一下  tk-cli 命令
+> 安装好之后，尝试执行一下  tk 命令
 
